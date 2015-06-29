@@ -1,0 +1,3 @@
+[submodule "propeller-gcc"]
+	path = propeller-gcc
+	url = https://github.com/parallaxinc/propgcc.git
